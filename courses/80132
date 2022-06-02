@@ -1,0 +1,3154 @@
+<html lang="he" dir="rtl">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <base href="https://bank.aguda.org.il/">
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css?ver=18"
+          type="text/css">
+    <link rel="stylesheet" href="https://bank.aguda.org.il/themes/agd/bootstrap.min.css?ver=18" type="text/css">
+    <link rel="stylesheet" href="https://bank.aguda.org.il/system/css/vcomplete.css?ver=18" type="text/css">
+    <link rel="stylesheet" href="https://bank.aguda.org.il/system/css/main.css?ver=18" type="text/css">
+    <link rel="stylesheet" href="https://bank.aguda.org.il/themes/agd/style.css?ver=18" type="text/css">
+    <link rel="stylesheet" href="https://bank.aguda.org.il/minify_css.css?ver=18" type="text/css">
+    <link rel="stylesheet" href="https://bank.aguda.org.il/themes/agd/fwd37/stylesheet.css?ver=18" type="text/css">
+    <link rel="stylesheet" href="https://bank.aguda.org.il/themes/agd/main.css?ver=18" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rateYo/2.3.2/jquery.rateyo.min.css?ver=18"
+          type="text/css">
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css?ver=18"
+          type="text/css">
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-THRRGWG"></script>
+    <script type="text/javascript" src="https://bank.aguda.org.il/system/js/jquery.min.js?ver=18"></script>
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/rateYo/2.3.2/jquery.rateyo.min.js?ver=18"></script>
+    <script type="text/javascript" src="https://bank.aguda.org.il/themes/agd/main.js?ver=18"></script>
+    <!-- Mobile Tags -->
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <meta name="ROBOTS" content="ALL">
+    <meta name="copyright" content="2003-2018, Bagel CMS">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>בנק אקדמי</title>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-THRRGWG');</script>
+</head>
+<body class="rtl  ">
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THRRGWG"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<div id="page" class="course  " style="z-index:0;">
+
+    <header>
+
+        <a href="" class="img_middle" data-logo="white pc"></a>
+
+        <div id="menu" class="right-menu">
+            <div class="menu-tab">
+
+                <a>בלימודים</a>
+                <div class="dropdown_box">
+                    <div class="dropdown_list_warpper">
+
+
+                        <div class="list">
+                            <h4>על האגודה</h4>                                                                <a
+                                href="https://www.aguda.org.il/about/#about-sec">אודות</a>
+                            <a href="https://www.aguda.org.il/about/#stuff-sec">העוסקים במלאכה</a>
+                            <a href="https://www.aguda.org.il/article/159">האגודה בתקשורת</a>
+                            <a href="https://drive.google.com/file/d/1wM3GuZI2tEJCcN4zMN_b416E4eUaOrlu/view?usp=sharing">תקנון
+                                האגודה</a>
+                            <a href="https://www.aguda.org.il/about/#months-sec">דוחודשי</a>
+                            <a href="https://www.aguda.org.il/contact">צור קשר</a>
+
+                        </div>
+
+
+                        <div class="list">
+                            <h4>שירותים אקדמיים</h4>                                                                <a
+                                href="https://www.aguda.org.il/article/459">תקופת מבחנים 101</a>
+                            <a href="https://www.aguda.org.il/morim">לוח מורים פרטיים</a>
+                            <a href="https://www.aguda.org.il/software">תוכנות לצרכי למידה</a>
+                            <a href="https://www.aguda.org.il/article/341">מרתונים</a>
+                            <a href="https://www.aguda.org.il/shop">חוברות מבחנים</a>
+                            <a href="https://www.aguda.org.il/article/221">תקנון והטבות- בנק אקדמי</a>
+                            <a href="https://www.aguda.org.il/article/94">פרויקט ׳שנה א׳ לא לבד׳</a>
+                            <a href="https://www.aguda.org.il/freemsoffice">אופיס בחינם!</a>
+
+                        </div>
+
+
+                        <div class="list">
+                            <a href="https://www.aguda.org.il/page_groups/3"><h4>זכותי לדעת - כל הזכויות האקדמיות!</h4>
+                            </a>
+                            <a href="https://bank.aguda.org.il/"><h4>הבנק האקדמי</h4></a>
+                            <a href="https://www.aguda.org.il/hafatrot "><h4>מאגר הפרות</h4></a>
+                            <a href="https://www.aguda.org.il/article/37"><h4>מניעה וטיפול בהטרדות מיניות וקידום שוויון
+                                מגדרי</h4></a>
+                            <a href="https://www.aguda.org.il/article/587"><h4>נגישות באוניברסיטה</h4></a>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="menu-tab">
+
+                <a>בשכונה</a>
+                <div class="dropdown_box">
+                    <div class="dropdown_list_warpper">
+
+                        <div class="list">
+                            <a href="https://www.aguda.org.il/MilgotBoard"><h4>מלגות ופרויקטים חברתיים</h4></a> <a
+                                href="https://www.aguda.org.il/article/4">פרויקטים חברתיים</a>
+                            <a href="https://www.aguda.org.il/MilgotBoard">מלגות</a>
+                            <a href="https://www.aguda.org.il/article/619">המאיץ החברתי</a>
+
+                        </div>
+
+
+                        <div class="list">
+                            <h4>מעונות ודיור</h4>                                                                <a
+                                href="https://www.aguda.org.il/article/12">מידע כללי</a>
+                            <a href="https://www.aguda.org.il/article/171">שאטלים</a>
+                            <a href="https://www.aguda.org.il/article/460">המדריך המלא לדירה</a>
+
+                        </div>
+
+                        <div class="list">
+                            <h4>תחבורה</h4>                                                                <a
+                                href="https://www.aguda.org.il/article/43">חניה</a>
+                            <a href="https://www.aguda.org.il/carpool">#טרמפאגודה</a>
+                            <a href="https://www.aguda.org.il/article/10">הוצאת רב-קו</a>
+
+                        </div>
+
+                        <div class="list">
+                            <h4>קריירה</h4>                                                                <a
+                                href="https://www.aguda.org.il/drushim">לוח דרושים</a>
+                            <a href="https://www.aguda.org.il/michrazim">דרושים לאגודה</a>
+
+                        </div>
+
+                        <div class="list">
+                            <h4>צרכנות</h4>                                                                <a
+                                href="https://www.aguda.org.il/article/84">שוברים לאקדמון</a>
+                            <a href="https://www.aguda.org.il/article/95">כרטיסיות לקפיטריות</a>
+                            <a href="https://www.aguda.org.il/article/47">תווי קניה</a>
+                            <a href="https://www.facebook.com/hakalmar">הקלמר - הטבות לסטודנטים</a>
+                            <a href="https://www.aguda.org.il/secondhandboard">לוח יד2</a>
+                            <a href="https://www.aguda.org.il/article/87">מחירון מפוקח</a>
+                            <a href="https://www.aguda.org.il/article/367">פרויקט הנחות בבתי עסק</a>
+
+                        </div>
+
+                        <div class="list">
+                            <h4>ביורוקרטיה</h4>                                                                <a
+                                href="https://www.aguda.org.il/article/611">מדריך הבירוקרטיה המלא</a>
+                            <a href="https://www.aguda.org.il/article/53">עו"ד בקמפוס</a>
+                            <a href="https://www.aguda.org.il/article/55">יריד ביורוקרטיה</a>
+                            <a href="https://www.aguda.org.il/article/381">MoneyTime- התנהלות פיננסית</a>
+
+                        </div>
+
+
+                        <div class="list">
+                            <a href="https://www.aguda.org.il/article/255"><h4>'אצלנו בשכונה'</h4></a>
+                            <a href="https://www.aguda.org.il/article/469"><h4>גן הילדים הרב-תרבותי של האוניברסיטה
+                                העברית</h4></a>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="menu-tab">
+
+                <a>בכיף שלך</a>
+                <div class="dropdown_box">
+                    <div class="dropdown_list_warpper">
+
+
+                        <div class="list">
+                            <h4>פנאי</h4>                                                                <a
+                                href="http://www.issta.co.il/israel/">חופשה בארץ</a>
+                            <a href="http://www.issta.co.il/flights/">נופש בחו"ל</a>
+
+                        </div>
+
+
+                        <div class="list">
+                            <h4>ספורט</h4>                                                                <a
+                                href="https://www.aguda.org.il/article/83">נבחרות הספורט</a>
+                            <a href="http://www.cosell.co.il/students">מנוי חינם לבריכה ומנוי מוזל לחד"כ</a>
+                            <a href="https://www.facebook.com/groups/417185405098629">קבוצת מישהו לשחק איתו</a>
+                            <a href="https://www.aguda.org.il/credit4sport">עושים ספורט ומקבלים נ"זים</a>
+
+                        </div>
+
+                        <div class="list">
+                            <h4>קשרי חוץ</h4>                                                                <a
+                                href="https://www.aguda.org.il/article/36">תגלית</a>
+                            <a href="https://www.aguda.org.il/article/48">פולין</a>
+                            <a href="https://www.aguda.org.il/article/42">תכנית מחוברים</a>
+
+                        </div>
+
+
+                        <div class="list">
+                            <a href="https://lp.aguda.org.il/yorim21/"><h4>בחירות ליו"ר המועצות תשפ"א</h4></a>
+                            <a href="https://www.aguda.org.il/class_agd"><h4>חוגים - FirstClass</h4></a>
+                            <a href="https://www.aguda.org.il/article/58"><h4>תאים סטודנטיאלים</h4></a>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+        <div class="left-menu">
+
+            <div id="user_area" class="fl">
+
+                <h4>שלום, </h4>
+                <a class="basic_link" href="https://www.aguda.org.il/personal">לאזור האישי | </a>
+                <a class="basic_link" href="https://www.aguda.org.il/Signup/logout">התנתק</a>
+
+            </div>
+
+            <div class="fl menu-tab">
+                <a href="https://www.aguda.org.il/contact">צור קשר</a>
+            </div>
+
+        </div>
+
+        <div class="head_search">
+            <div id="search" class="animate-fast">
+                <form action="/search" method="get">
+                    <a class="img_middle search_btn animate-fast"></a>
+                    <input type="text" name="q" placeholder=" מה תרצה לחפש? ">
+                    <input type="submit" style="display:none;">
+                </form>
+            </div>
+        </div>
+
+
+    </header>
+    <div id="content">
+        <div id="course_page">
+
+            <div class="main_head">
+                <div class="pos_middle">
+
+                    <h1>חשבון אינפיניטסימלי )2(</h1>
+                    <h2> קורס מס' 80132</h2>
+
+                </div>
+            </div>
+
+            <div class="row centered">
+
+                <div class="col-md-3">
+
+                    <section class="centered" id="my_courses_sec">
+                        <h2>הקורסים שלי</h2>
+                        <div class="course_list container-fluid">
+                            <ul class="row">
+
+                            </ul>
+                        </div>
+                    </section>
+
+                    <section class="centered" id="forget_sec">
+                        <h2>לא שכחת?</h2>
+                        <div class="last_files_list files_list">
+                        </div>
+                    </section>
+
+                </div>
+
+                <div class="col-md-9">
+
+                    <div class="tabs menu">
+                        <div class="tab active" data-type="1"><a class="active">מבחנים <span>(77)</span></a></div>
+                        <div class="tab" data-type="2"><a>בוחן <span>(14)</span></a></div>
+                        <div class="tab" data-type="3"><a> סיכום <span>(73)</span></a></div>
+                        <div class="tab" data-type="4"><a>אחר <span>(1)</span></a></div>
+                        <li class="indicator" style="right: 0px; left: 493px;"></li>
+                    </div>
+
+                    <div id="filtered_files" class="files_list">
+                        <ul>
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/96030" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/96030"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="96030"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/96030" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2021</span>
+
+                                        <spam>ציון: 87</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div>2021 סמסטר ב’ מועד ב’</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/95695" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/95695"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="95695"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/95695" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2021</span>
+
+                                        <spam>ציון: 95</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/95546" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/95546"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="95546"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/95546" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2021</span>
+
+                                        <spam>ציון: 93</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/95451" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/95451"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="95451"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/95451" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2021</span>
+
+                                        <spam>ציון: 93</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/96331" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/96331"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="96331"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/96331" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2021</span>
+
+                                        <spam>ציון: 98</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/95854" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/95854"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="95854"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/95854" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2021</span>
+
+                                        <spam>ציון: 100</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div>102/102</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/95836" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/95836"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="95836"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/95836" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2021</span>
+
+                                        <spam>ציון: 98</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/94421" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/94421"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="94421"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/94421" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2020</span>
+
+                                        <spam>ציון: 91</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div>מבחן מקוון, שאלות 1-4, -2 נקודות על שאלה 1, -7 על שאלה 4</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/94334" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/94334"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="94334"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/94334" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2020</span>
+
+                                        <spam>ציון: 96</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/94291" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/94291"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="94291"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/94291" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2020</span>
+
+                                        <spam>ציון: 0</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: לא פתור</span>
+
+
+                                        <div>קובץ המבחן</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/91432" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/91432"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="91432"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/91432" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2019</span>
+
+                                        <spam>ציון: 98</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/90756" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/90756"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="90756"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/90756" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2019</span>
+
+                                        <spam>ציון: 91</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/90498" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/90498"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="90498"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/90498" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2019</span>
+
+                                        <spam>ציון: 97</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/90497" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/90497"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="90497"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/90497" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2019</span>
+
+                                        <spam>ציון: 92</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div>שתי טעויות בשאלות האמריקאיות</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/86764" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/86764"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="86764"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/86764" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2018</span>
+
+                                        <spam>ציון: 100</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/83701" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/83701"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="83701"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/83701" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2017</span>
+
+                                        <spam>ציון: 100</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/83341" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/83341"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="83341"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/83341" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2017</span>
+
+                                        <spam>ציון: 100</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div>שאלות 2,3,5-10</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/83043" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/83043"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="83043"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/83043" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2017</span>
+
+                                        <spam>ציון: 90</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/82840" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/82840"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="82840"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/82840" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2017</span>
+
+                                        <spam>ציון: 100</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/82835" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/82835"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="82835"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/82835" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2017</span>
+
+                                        <spam>ציון: 100</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/82288" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/82288"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="82288"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/82288" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2017</span>
+
+                                        <spam>ציון: 96</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/82284" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/82284"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="82284"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/82284" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2017</span>
+
+                                        <spam>ציון: 100</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/79106" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/79106"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="79106"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/79106" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2016</span>
+
+                                        <spam>ציון: 96</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/79150" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/79150"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="79150"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/79150" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2016</span>
+
+                                        <spam>ציון: 99</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/78745" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/78745"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="78745"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/78745" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2016</span>
+
+                                        <spam>ציון: 93</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/78336" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/78336"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="78336"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/78336" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2016</span>
+
+                                        <spam>ציון: 98</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/75593" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/75593"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="75593"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/75593" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2015</span>
+
+                                        <spam>ציון: 97</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/75592" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/75592"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="75592"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/75592" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2015</span>
+
+                                        <spam>ציון: 97</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/71734" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/71734"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="71734"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/71734" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2014</span>
+
+                                        <spam>ציון: 97</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/73071" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/73071"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="73071"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/73071" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2013</span>
+
+                                        <spam>ציון: 100</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/63858" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/63858"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="63858"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/63858" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2012</span>
+
+                                        <spam>ציון: 90</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 02</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/63860" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/63860"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="63860"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/63860" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2012</span>
+
+                                        <spam>ציון: 93</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 04</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/63859" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/63859"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="63859"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/63859" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2012</span>
+
+                                        <spam>ציון: הצעת פתרון לשאלות הפתוחות</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 03</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/63857" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/63857"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="63857"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/63857" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2012</span>
+
+                                        <spam>ציון: "102/104 שאלות: 2</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 01</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/63529" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/63529"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="63529"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/63529" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2011</span>
+
+                                        <spam>ציון: ציון: 98. שאלות: 1+3+4+6</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 02</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/63528" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/63528"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="63528"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/63528" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2011</span>
+
+                                        <spam>ציון: ציון: 97. שאלות 1+2+4+6</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 01</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60263" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60263"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60263"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60263" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 02 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2010</span>
+
+                                        <spam>ציון: טופס בחינה</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 02</span>
+                                        <div>טופס בחינה
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/63189" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/63189"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="63189"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/63189" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2010</span>
+
+                                        <spam>ציון: 91. תשובות לשאלות : 1+3+5+6</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 04</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/63188" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/63188"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="63188"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/63188" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2010</span>
+
+                                        <spam>ציון: 98 . תשובות לשאלות: 1+2+3+6</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 03</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/63187" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/63187"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="63187"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/63187" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2010</span>
+
+                                        <spam>ציון: 100 .תשובות לשאלות: 1+2+5+6</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 02</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/63186" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/63186"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="63186"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/63186" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2010</span>
+
+                                        <spam>ציון: 99. תשובות לשאלות: 1+2+5+6</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 01</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/62797" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/62797"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="62797"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/62797" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2009</span>
+
+                                        <spam>ציון: 100. תשובות לשאלות : 2+3+4</spam>
+                                        <span>מועד: ג</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 07</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/62796" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/62796"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="62796"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/62796" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2009</span>
+
+                                        <spam>ציון: 84. תשובות לשאלות: 1+3+5</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 05</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/62795" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/62795"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="62795"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/62795" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2009</span>
+
+                                        <spam>ציון: 93. תשובות לשאלות: 1+3+5</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 04</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/62793" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/62793"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="62793"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/62793" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2009</span>
+
+                                        <spam>ציון: 91. תשובות לשאלות: חלק א:1 ; חלק ב: 3+5</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 02</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/62792" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/62792"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="62792"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/62792" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2009</span>
+
+                                        <spam>ציון: 100. תשובות לשאלות: חלק א: 1 חלק ב: 3+5</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 01</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60262" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60262"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60262"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60262" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 01 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2009</span>
+
+                                        <spam>ציון: מרצים: פרופ' מתניה בן -ארצי ומר איתמר צביק</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 01</span>
+                                        <div>מרצים: פרופ' מתניה בן -ארצי ומר איתמר צביק
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60082" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60082"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60082"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60082" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 03 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2008</span>
+
+                                        <spam>ציון: מרצה: מר איתמר צביק</spam>
+                                        <span>מועד: ג</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 03</span>
+                                        <div>מרצה: מר איתמר צביק
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/62433" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/62433"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="62433"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/62433" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2008</span>
+
+                                        <spam>ציון: 100. תשובות לשאלות: 2+3+4</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 03</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/62432" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/62432"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="62432"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/62432" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2008</span>
+
+                                        <spam>ציון: 100. תשובות לשאלות: 1+3+4</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 02</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/62431" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/62431"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="62431"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/62431" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    בוחן ציון <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2008</span>
+
+                                        <spam>ציון: 95. תשובות לשאלות: 1+3+4</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: </span>
+
+                                        <span>מספר שיעור: 01</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60081" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60081"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60081"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60081" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 01 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2008</span>
+
+                                        <spam>ציון: "מרצים: ד""ר נעם ברגר</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 01</span>
+                                        <div>"מרצים: ד""ר נעם ברגר</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/59692" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/59692"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="59692"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/59692" class="ico ico_html"></a>
+                                <div class="content">
+                                    סיכום 00 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2007</span>
+
+
+                                        <span>מועד: אחר</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 00</span>
+                                        <div>התפלגות הציונים בקורס</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/59691" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/59691"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="59691"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/59691" class="ico ico_htm"></a>
+                                <div class="content">
+                                    סיכום 00 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2007</span>
+
+
+                                        <span>מועד: אחר</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 00</span>
+                                        <div>התפלגות הציונים בקורס</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60857" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60857"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60857"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60857" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    6227_2007_80132_07 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2006</span>
+
+                                        <spam>ציון: 95</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+                                        <span>מספר שיעור: 07</span>
+                                        <div>מועד ב תשסז</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60856" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60856"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60856"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60856" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    6227_2007_80132_06 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2006</span>
+
+                                        <spam>ציון: 98</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+                                        <span>מספר שיעור: 06</span>
+                                        <div>מועד ב תשסז</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60855" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60855"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60855"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60855" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    6227_2007_80132_05 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2006</span>
+
+                                        <spam>ציון: 90</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+                                        <span>מספר שיעור: 05</span>
+                                        <div>מועד ב תשסז</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60854" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60854"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60854"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60854" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    6227_2007_80132_02 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2006</span>
+
+
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+                                        <span>מספר שיעור: 02</span>
+                                        <div>מועד א</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60853" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60853"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60853"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60853" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    6227_2007_80132_01 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2006</span>
+
+
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+                                        <span>מספר שיעור: 01</span>
+                                        <div>מועד א</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/59340" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/59340"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="59340"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/59340" class="ico ico_htm"></a>
+                                <div class="content">
+                                    סיכום 00 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2006</span>
+
+
+                                        <span>מועד: אחר</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 00</span>
+                                        <div>התפלגות הציונים בקורס</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/58918" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/58918"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="58918"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/58918" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 03 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2005</span>
+
+
+                                        <span>מועד: ג</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 03</span>
+                                        <div>מועד ג תשסו</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60673" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60673"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60673"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60673" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    6227_2006_80132_02 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2005</span>
+
+
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+                                        <span>מספר שיעור: 02</span>
+                                        <div>מועד ב'</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60672" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60672"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60672"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60672" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    6227_2006_80132_01 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2005</span>
+
+
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+                                        <span>מספר שיעור: 01</span>
+                                        <div>מועד ב</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/58917" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/58917"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="58917"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/58917" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 02 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2005</span>
+
+                                        <spam>ציון: מרצים: פרופ' יורם לסט מר איתמר צביק</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 02</span>
+                                        <div>מרצים: פרופ' יורם לסט מר איתמר צביק
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/58916" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/58916"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="58916"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/58916" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 01 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2005</span>
+
+                                        <spam>ציון: מרצים: פרופ' יורם לסט מר איתמר צביק</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 01</span>
+                                        <div>מרצים: פרופ' יורם לסט מר איתמר צביק
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/58915" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/58915"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="58915"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/58915" class="ico ico_htm"></a>
+                                <div class="content">
+                                    סיכום 00 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2005</span>
+
+                                        <spam>ציון: 0</spam>
+                                        <span>מועד: אחר</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 00</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/58468" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/58468"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="58468"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/58468" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 10 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2004</span>
+
+
+                                        <span>מועד: ג</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 10</span>
+                                        <div>מועד ג תשסה</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/58467" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/58467"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="58467"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/58467" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 04 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2004</span>
+
+                                        <spam>ציון: מרצים: פרופ' ר. לורנס-נאימרק; פרופ' מ. ציפין</spam>
+                                        <span>מועד: ב</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 04</span>
+                                        <div>מרצים: פרופ' ר. לורנס-נאימרק; פרופ' מ. ציפין
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/58466" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/58466"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="58466"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/58466" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 03 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2004</span>
+
+                                        <spam>ציון: מרצים: פרופ' ר. לורנס-נאימרק; פרופ' מ. ציפין</spam>
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 03</span>
+                                        <div>מרצים: פרופ' ר. לורנס-נאימרק; פרופ' מ. ציפין
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/58464" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/58464"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="58464"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/58464" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 01 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2004</span>
+
+
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 01</span>
+                                        <div>מועד א תשסד</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/58256" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/58256"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="58256"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/58256" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 10 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2004</span>
+
+
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 10</span>
+                                        <div>מועד א תשסד</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/58255" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/58255"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="58255"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/58255" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 01 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2004</span>
+
+
+                                        <span>מועד: א</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 01</span>
+                                        <div>מועד א תשסד</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60525" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60525"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60525"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60525" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    6227_2005_80132_10 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2004</span>
+
+                                        <spam>ציון: 0</spam>
+                                        <span>מועד: אחר</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+                                        <span>מספר שיעור: 10</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/58465" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/58465"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="58465"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/58465" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    סיכום 02 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2004</span>
+
+
+                                        <span>מועד: אחר</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 02</span>
+                                        <div>קובץ מבחנים תשסב-תשסה</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60494" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60494"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60494"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60494" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    6227_2004_80132_15 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2003</span>
+
+                                        <spam>ציון: 0</spam>
+                                        <span>מועד: אחר</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+                                        <span>מספר שיעור: 15</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/60493" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/60493"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="60493"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/60493" class="ico ico_pdf"></a>
+                                <div class="content">
+                                    6227_2004_80132_10 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2003</span>
+
+                                        <spam>ציון: 0</spam>
+                                        <span>מועד: אחר</span>
+                                        <span>סטטוס: פתרון סטודנט</span>
+
+                                        <span>מספר שיעור: 10</span>
+                                        <div></div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+                            <li>
+                                <div class="left props">
+                                    <!--<a>
+                                        <span></span>
+                                        2 תגובות
+                                    </a>-->
+                                    <a class="download" href="download/58097" target="_blank" download=""><i
+                                            class="material-icons dp48">file_download</i> הורדה</a>
+                                    <!--			<a class="share_btn"><i class="material-icons dp48">share</i> שתף</a>-->
+                                    <!--			<a><i class="material-icons dp48">print</i> שלח להדפסה</a>-->
+                                    <a class="fancy" href="report/58097"><i
+                                            class="material-icons dp48">report_problem</i> דיווח</a>
+                                    <a class="delete_file show_admin" data-id="58097"><i
+                                            class="material-icons">delete</i> מחק קובץ</a>
+                                </div>
+
+                                <a href="download/58097" class="ico ico_htm"></a>
+                                <div class="content">
+                                    סיכום 00 <span class="rating"></span>
+                                    <div class="statuses">
+                                        <span>שנה: 2001</span>
+
+
+                                        <span>מועד: אחר</span>
+                                        <span>סטטוס: לא פתור</span>
+
+                                        <span>מספר שיעור: 00</span>
+                                        <div>התפלגות הציונים בקורס</div>
+                                    </div>
+
+                                </div>
+                                <div class="clr"></div>
+                            </li>
+
+
+                        </ul>
+
+
+                    </div>
+
+                </div>
+
+
+            </div>
+
+        </div>
+
+        <script>
+            $(function () {
+                $('#course_page .menu a').on('click', function () {
+
+                    api_call({
+                        url: 'bank/results',
+                        data: {course: '5054', type: $(this).closest('.tab').data('type'), limit: 99999},
+                        onComplete: function (data) {
+
+                            $('#filtered_files').html(html_template('bank_list', {items: data.data.items}));
+
+                        }
+                    });
+
+                });
+
+
+                setTimeout(function () {
+                    $('#course_page .menu a:first').click();
+                }, 100);
+
+            });
+        </script>
+    </div>
+
+    <footer>
+        <div class="centered">
+
+            <div class="row">
+
+                <div class="col-md-6 kampus">
+                    <div class="filter">
+                        <a class="img_middle" data-logo="green pc"></a>
+                        <form class="input-field" id="campus_filter">
+
+                            <div class="select-wrapper"><span class="caret">▼</span><input type="text"
+                                                                                           class="select-dropdown"
+                                                                                           readonly="true"
+                                                                                           data-activates="select-options-510d1b82-5fd3-30d4-caa5-b85dee69d196"
+                                                                                           value="אדמונד ספרא - גבעת רם">
+                                <ul id="select-options-510d1b82-5fd3-30d4-caa5-b85dee69d196"
+                                    class="dropdown-content select-dropdown ">
+                                    <li class="disabled "><span>קמפוס:</span></li>
+                                    <li class=""><span>אדמונד ספרא - גבעת רם</span></li>
+                                    <li class=""><span>הר הצופים</span></li>
+                                    <li class=""><span>הפקולטה לחקלאות - רחובות</span></li>
+                                    <li class=""><span>עין כרם - הפקולטה לרפואה</span></li>
+                                </ul>
+                                <select data-select-id="510d1b82-5fd3-30d4-caa5-b85dee69d196" class="initialized">
+                                    <option value="0" disabled="" selected="">קמפוס:</option>
+                                    <option value="1" selected="">אדמונד ספרא - גבעת רם</option>
+                                    <option value="2">הר הצופים</option>
+                                    <option value="3">הפקולטה לחקלאות - רחובות</option>
+                                    <option value="6">עין כרם - הפקולטה לרפואה</option>
+
+                                </select></div>
+                        </form>
+                    </div>
+
+                    <div class="col-md-12 inform_box">
+                        <div class="col-md-12  title_list">
+                            <span>קמפוס אדמונד ספרא - גבעת רם </span>
+                        </div>
+                        <div class="col-md-12  content_list">
+                            <span class="" data-font-icon="loction">בנין שרמן (מעל אקדמון), גבעת רם, ירושלים</span>
+                        </div>
+                        <div class="col-md-12  content_list">
+                            <span class="col-md-6" data-font-icon="email">mazkirut@givatram.org</span>
+                            <span class="col-md-6" data-font-icon="phone-outline">02-6584726</span>
+                        </div>
+                    </div>
+
+
+                </div>
+
+                <ul class="col-md-6 menus">
+
+                    <li class="col-md-4">
+                        <h3>אגודת הסטודנטים</h3>
+                        <span><a href="https://www.aguda.org.il/article/71">חברות באגודה</a></span>
+                        <span><a href="https://www.aguda.org.il/about/#stuff-sec">העוסקים במלאכה</a></span>
+                        <span><a href="https://www.aguda.org.il/contact">צור קשר</a></span>
+                        <span><a href="https://www.aguda.org.il/drushim">דרושים</a></span>
+
+                    </li>
+                    <li class="col-md-4">
+                        <h3>בלימודים</h3>
+                        <span><a href="https://bank.aguda.org.il">בנק אקדמי</a></span>
+                        <span><a href="https://www.aguda.org.il/morim">מורים פרטיים</a></span>
+                        <span><a href="https://www.aguda.org.il/marathons">מרתונים</a></span>
+                        <span><a href="https://www.aguda.org.il/shop">הדפסה בזול</a></span>
+
+                    </li>
+                    <li class="col-md-4">
+                        <h3>בכיף שלך</h3>
+                        <span><a href="https://www.aguda.org.il/class_agd">חוגים</a></span>
+                        <span><a href="https://www.aguda.org.il/article/90">בריכה וחדר כושר</a></span>
+                        <span><a href="http://www.issta.co.il/israel/">חופשה בארץ</a></span>
+                        <span><a href="http://www.issta.co.il/flights/">נופש בחו"ל</a></span>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+
+            <div class="fl">
+
+                <a style="color:#333; font-size: 12px; line-height: normal; margin-left: 25px;" target="_blank"
+                   href="http://www.bagelstudio.co.il/">עיצוב: <img
+                        src="https://www.wizzo.co.il/themes/WIZ/images/bagelstudio_logo.png"
+                        style="height:37px; width: auto; vertical-align: text-bottom" alt="עיצוב אתרים">
+                </a>
+
+                <a style="color:#333; font-size: 12px; line-height: normal;" target="_blank"
+                   href="https://www.wizzo.co.il/">
+                    פותח ע"י
+                    <img src="https://www.wizzo.co.il/themes/WIZ/images/credit_logo_black.png"
+                         style="height:37px; width: auto; vertical-align: text-bottom" alt="בניית אתרים">
+                </a></div>
+
+            <div class="clr"></div>
+
+        </div>
+    </footer>
+    <div style="position: fixed; right: 50px; bottom: 50px;">
+        <a class="btn-floating btn-large waves-effect waves-light green tooltipped fancy" href="add_file"
+           data-position="top" data-delay="50" id="btn_new_post" data-board-id="1" data-tooltip="העלאת קובץ חדש"
+           data-tooltip-id="d3a0f1c6-b64b-31d8-0f31-f9ce13c6cc41"><i class="material-icons">add</i></a>
+    </div>
+</div>
+
+<div id="share_btns_cont" data-url="">
+    <div class="soci_email"></div>
+    <div class="soci_fb"></div>
+    <div class="soci_twitter"></div>
+    <div class="soci_google"></div>
+    <div class="soci_linkedin"></div>
+    <div class="soci_telegram"></div>
+    <div class="soci_whatpsapp"></div>
+</div>
+<script type="text/javascript">
+    var arrSettings = [];
+    arrSettings['uid'] = 'joel.vanderboo@mail.huji.ac.il';</script>
+<link rel="stylesheet" href="https://bank.aguda.org.il/system/js/jquery-ui/jquery-ui.min.css?ver=18" type="text/css">
+<link rel="stylesheet" href="https://bank.aguda.org.il/system/libraries/MyFancy/myFancy.css?ver=18" type="text/css">
+<script type="text/javascript" src="https://bank.aguda.org.il/minify_js.js?ver=18"></script>
+<script type="text/javascript" src="https://bank.aguda.org.il/system/js/imagesloaded.js?ver=18"></script>
+<script type="text/javascript" src="https://bank.aguda.org.il/system/js/jquery.cookie.js?ver=18"></script>
+<script type="text/javascript" src="https://bank.aguda.org.il/system/js/jquery.form.min.js?ver=18"></script>
+<script type="text/javascript" src="https://bank.aguda.org.il/system/js/jquery.watermark.min.js?ver=18"></script>
+<script type="text/javascript" src="https://bank.aguda.org.il/system/js/mainFuncs.js?ver=18"></script>
+<script type="text/javascript" src="https://bank.aguda.org.il/system/js/maxlength.js?ver=18"></script>
+<script type="text/javascript" src="https://bank.aguda.org.il/system/js/vcomplete.js?ver=18"></script>
+<script type="text/javascript" src="https://bank.aguda.org.il/system/js/jquery-ui/jquery-ui.min.js?ver=18"></script>
+<script type="text/javascript"
+        src="https://bank.aguda.org.il/themes/agd/assets/jquery.slimscroll.min.js?ver=18"></script>
+<script type="text/javascript" src="https://bank.aguda.org.il/system/libraries/MyFancy/myFancy.js?ver=18"></script>
+<script type="text/javascript"
+        src="https://bank.aguda.org.il/themes/agd/assets/jquery.storageapi.min.js?ver=18"></script>
+<script type="text/javascript" src="https://bank.aguda.org.il/themes/agd/assets/handlebars-v4.0.10.js?ver=18"></script>
+<script type="text/javascript" src="https://bank.aguda.org.il/themes/agd/funcs.js?ver=18"></script>
+<script type="text/javascript" src="https://bank.aguda.org.il/themes/agd/ui.js?ver=18"></script>
+<script type="text/javascript" src="https://bank.aguda.org.il/CRM.js?lang=1&amp;ver=18"></script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js?ver=18"></script>
+<script type="text/javascript"> writeLoadedFile('https://bank.aguda.org.il/minify_js.js', 'https://bank.aguda.org.il/system/js/imagesloaded.js', 'https://bank.aguda.org.il/system/js/jquery.cookie.js', 'https://bank.aguda.org.il/system/js/jquery.form.min.js', 'https://bank.aguda.org.il/system/js/jquery.watermark.min.js', 'https://bank.aguda.org.il/system/js/mainFuncs.js', 'https://bank.aguda.org.il/system/js/maxlength.js', 'https://bank.aguda.org.il/system/js/vcomplete.js', 'https://bank.aguda.org.il/system/js/jquery-ui/jquery-ui.min.js', 'https://bank.aguda.org.il/system/js/jquery.min.js', 'https://cdnjs.cloudflare.com/ajax/libs/rateYo/2.3.2/jquery.rateyo.min.js', 'https://bank.aguda.org.il/themes/agd/assets/jquery.slimscroll.min.js', 'https://bank.aguda.org.il/system/libraries/MyFancy/myFancy.js', 'https://bank.aguda.org.il/themes/agd/assets/jquery.storageapi.min.js', 'https://bank.aguda.org.il/themes/agd/assets/handlebars-v4.0.10.js', 'https://bank.aguda.org.il/themes/agd/main.js', 'https://bank.aguda.org.il/themes/agd/funcs.js', 'https://bank.aguda.org.il/themes/agd/ui.js', 'https://bank.aguda.org.il/CRM.js?lang=1', 'https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js', 'https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css', 'https://bank.aguda.org.il/themes/agd/bootstrap.min.css', 'https://bank.aguda.org.il/system/css/vcomplete.css', 'https://bank.aguda.org.il/system/css/main.css', 'https://bank.aguda.org.il/themes/agd/style.css', 'https://bank.aguda.org.il/minify_css.css', 'https://bank.aguda.org.il/system/js/jquery-ui/jquery-ui.min.css', 'https://bank.aguda.org.il/themes/agd/fwd37/stylesheet.css', 'https://bank.aguda.org.il/themes/agd/main.css', 'https://cdnjs.cloudflare.com/ajax/libs/rateYo/2.3.2/jquery.rateyo.min.css', 'https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css', 'https://bank.aguda.org.il/system/libraries/MyFancy/myFancy.css'); </script>
+<script>(function () {
+    var s = document.createElement('script'), e = !document.body ? document.querySelector('head') : document.body;
+    s.src = 'https://acsbapp.com/apps/app/dist/js/app.js';
+    s.async = true;
+    s.onload = function () {
+        acsbJS.init({
+            statementLink: '',
+            footerHtml: '',
+            hideMobile: false,
+            hideTrigger: false,
+            language: 'he',
+            position: 'left',
+            leadColor: '#008000',
+            triggerColor: '#00b700',
+            triggerRadius: '50%',
+            triggerPositionX: 'right',
+            triggerPositionY: 'bottom',
+            triggerIcon: 'people2',
+            triggerSize: 'medium',
+            triggerOffsetX: 20,
+            triggerOffsetY: 20,
+            mobile: {
+                triggerSize: 'small',
+                triggerPositionX: 'right',
+                triggerPositionY: 'center',
+                triggerOffsetX: 10,
+                triggerOffsetY: 0,
+                triggerRadius: '50%'
+            }
+        });
+    };
+    e.appendChild(s);
+}());</script>
+<script src="https://acsbapp.com/apps/app/dist/js/app.js" async=""></script>
+
+<div class="material-tooltip" id="d3a0f1c6-b64b-31d8-0f31-f9ce13c6cc41"><span>העלאת קובץ חדש</span>
+    <div class="backdrop"></div>
+</div>
+<div class="hiddendiv common"></div>
+</body>
+</html>
